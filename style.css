@@ -130,9 +130,9 @@ notePad {
 button {
   margin: 5px;
   border: solid 3px grey;
-  border-radius: 10%;
+  border-radius: 1%;
   font-size: 22px;
-  font-weight: 800;
+  font-weight: 100;
   text-transform: uppercase;
   color: #DEDEDE;
 }
