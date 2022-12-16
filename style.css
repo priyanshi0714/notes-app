@@ -69,8 +69,8 @@ noteList {
 
 notePad {
   display: inline-block;
-  border: solid 3px black;
-  border-radius: 10px;
+  border: solid 3px #929292;
+  border-radius: 2px;
   height: 400px;
   overflow: scroll;
   width: 60%;
