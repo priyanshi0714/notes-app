@@ -146,11 +146,11 @@ button:hover, .color-box:hover {
 }
 
 #btn-save {
-  background-color: #2F5032;
+  background-color: green;
 }
 
 #btn-delete {
-  background-color: #E41A36;
+  background-color: red;
 }
 
 .white {
